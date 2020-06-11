@@ -1,0 +1,85 @@
+
+.content{
+    padding: 50px 44px !important; 
+}
+.card-container{
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    padding: 30px 40px;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+    box-shadow: 0px 10px 50px #555;
+    background: darkseagreen;
+}
+
+.card-containerpending{
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    padding: 30px 40px;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+    box-shadow: 0px 10px 50px #555;
+    background: #d39e00;
+}
+.col{
+    padding:10px;
+    padding-left:0px !important;
+    padding-right:0px !important;
+}
+.class1{
+    color: green !important;
+    margin: 0px !important;
+    text-align: left !important;
+    margin-right: 10px !important;
+    background: darkseagreen;
+
+}
+.class2{
+    color: #dc3545 !important;
+    margin: 0px !important;
+    text-align: left !important;
+    margin-right: 10px !important;
+    background: #d39e00;
+
+
+
+}
+.addBtn{
+    border-radius: 5px !important;
+    background: darkseagreen;
+    border: none;
+    font-size: 16px;
+}
+.divBtn{
+    margin-top: 100px;
+}
+.inputDiv{
+    padding-bottom: 30px;
+    padding-left: 100px;
+}
+.inputText{
+    min-width: 270px;
+}
+.inputTextarea{
+    min-width: 270px;
+    min-height: 100px;
+}
+.textareaDiv{
+    padding-bottom: 30px;
+    padding-left: 100px;
+}
+.cancelBtn{
+    background: none !important;
+    color: #545b62;
+    border: none;}
+.saveBtn{
+    background: #007bff !important;
+    border: none;}
